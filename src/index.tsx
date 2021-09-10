@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Fragment from './components/Fragment';
+import Pure from './components/Pure';
 import './index.css';
 
 ReactDOM.render(
-  <Fragment />,
+  <Pure />,
   document.getElementById('root')
 );
