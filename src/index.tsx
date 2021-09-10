@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Immutable from './components/Immutable';
+import Memo from './components/Memo';
 import './index.css';
 
 ReactDOM.render(
-  <Immutable />,
+  <Memo />,
   document.getElementById('root')
 );
