@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Pure from './components/Pure';
+import Immutable from './components/Immutable';
 import './index.css';
 
 ReactDOM.render(
-  <Pure />,
+  <Immutable />,
   document.getElementById('root')
 );
