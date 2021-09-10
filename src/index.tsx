@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Fragment from './components/Fragment';
 import './index.css';
 
 ReactDOM.render(
-  <div>111</div>,
+  <Fragment />,
   document.getElementById('root')
 );
